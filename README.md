@@ -126,3 +126,8 @@ Dashboard includes:
 ## Author
 
 **Lakshya Sharma**
+
+Aspiring Data Analyst | Python • SQL • Power BI • MS Excel
+
+- GitHub: https://github.com/slakshya-22  
+- LinkedIn: https://www.linkedin.com/in/slakshya22/
